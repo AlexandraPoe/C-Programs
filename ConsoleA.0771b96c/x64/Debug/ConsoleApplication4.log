@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\meado\Desktop\PDA\ConsoleApplication4\ConsoleApplication4.cpp(243,37): warning C4101: 'dest': unreferenced local variable
+  ConsoleApplication4.vcxproj -> C:\Users\meado\Desktop\PDA\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
